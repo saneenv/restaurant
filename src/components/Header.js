@@ -11,11 +11,11 @@ function Header() {
             <img
               alt=""
               src="https://i.postimg.cc/vZ1wkj3F/eb4f749fd1c95eefe5cccbcd325d8299.jpg"
-              width="30"
-              height="30"
+              width="40"
+              height="40"
               className="d-inline-block align-top"
             />{' '}
-            React Bootstrap
+           HOTEL AGAPE
           </Navbar.Brand>
         </Container>
       </Navbar>
